@@ -1,0 +1,2 @@
+
+#define SBXPreviewTableViewCellName @"SBXPreviewTableViewCell"
