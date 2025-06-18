@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.description  = "SandboxPreviewKit help you to preview sandbox directory on iOS devices."
 
   spec.homepage     = "https://github.com/A1aM0/SandboxPreviewKit"
-  spec.license      = "MIT"
+  spec.license      = { :type => "Apache License, Version 2.0", :file => "LICENSE"}
   spec.author             = { "Songhao Yang" => "yoyoyanghao@gmail.com" }
   spec.platform     = :ios, "13.0"
   spec.ios.deployment_target = "13.0"
